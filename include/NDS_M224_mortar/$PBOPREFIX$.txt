@@ -1,0 +1,5 @@
+//<'NDS_M224_mortar.pbo' properties via Mikero's dos tools, dll version 7.97>
+prefix=NDS_M224_mortar;
+Mikero=DePbo.dll;
+//PboType=Arma Addon;
+//</properties>
